@@ -1,6 +1,6 @@
 {
   "name": "kb-bot",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Koba Bois discord bot",
   "main": "src/index.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "author": "d4n1551",
   "license": "ISC",
   "dependencies": {
+    "chokidar": "^3.5.1",
     "discord.js": "^12.4.1",
     "express": "^4.17.1",
     "jimp": "^0.16.1",
